@@ -88,9 +88,14 @@ static struct fs_monitor_size fs_monitor_sizes[] =
     {2560, 1600}, /*  8:5 */
     {1440, 960},  /*  3:2 */
     {1920, 1280}, /*  3:2 */
-    {2560, 1080}, /* 21:9 ultra-wide */
     {1920, 800},  /* 12:5 */
     {3840, 1600}, /* 12:5 */
+    {1720, 720}, /* 21:9 - 'FSR ultra-wide Performance' */
+    {2024, 847}, /* 21:9 - 'FSR ultra-wide Balanced' */
+    {2293, 960}, /* 21:9 - 'FSR ultra-wide Quality' */
+    {2560, 1080}, /* 21:9 ultra-wide */
+    {2646, 1108}, /* 21:9 - 'FSR ultra-wide Ultra Quality' */
+    {3440, 1440}, /* 21:9 ultra-wide */
     {1280, 1024}, /*  5:4 */
 };
 
